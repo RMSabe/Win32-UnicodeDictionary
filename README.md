@@ -1,4 +1,8 @@
 # Win32-UnicodeDictionary
+
+!!!DEPRECATED!!!
+Check Windows_UTF16_Dict repository.
+
 A Win32 application to convert a string of unicode characters into a sequence of numbers (decimal or hexadecimal).
 
 This requires Windows MinGW64 resources to compile the source code.
